@@ -8,7 +8,7 @@
 
 ##  Overview
 
-A compact quiz web application developed as a **mini learning project** under the guidance of MySkill, mentored by **Alfi Nur Hakim** :contentReference[oaicite:1]{index=1}. Designed with core web technologies (HTML, CSS, JavaScript) to provide basic yet practical quiz functionality.
+A compact quiz web application developed as a **mini learning project** under the guidance of MySkill, mentored by **Alfi Nur Hakim**. Designed with core web technologies (HTML, CSS, JavaScript) to provide basic yet practical quiz functionality.
 
 ---
 
